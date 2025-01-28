@@ -497,10 +497,10 @@
           <mxGeometry x="145" y="340" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eNpgOsh8qFjRd633PgLv-7" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Pridicted Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="150" height="30" as="geometry" />
+          <mxGeometry x="315" y="340" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eNpgOsh8qFjRd633PgLv-8" value="LSTM/&lt;div&gt;CNN/&lt;/div&gt;&lt;div&gt;Transformer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="90" height="60" as="geometry" />
+        <mxCell id="eNpgOsh8qFjRd633PgLv-8" value="LSTM/&lt;div&gt;CNN/&lt;/div&gt;&lt;div&gt;transformer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eNpgOsh8qFjRd633PgLv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="355" y="300" width="10" height="10" as="geometry" />
